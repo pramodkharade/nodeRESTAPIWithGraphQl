@@ -44,3 +44,7 @@ npm i --save body-parser
 # Install the graphql to replace REST API
 
 npm i graphql
+
+# Install Express graphql to parse the request
+
+npm i express-graphql
