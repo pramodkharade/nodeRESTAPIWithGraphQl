@@ -40,3 +40,7 @@ npm i --save body-parser
  # Install the socket.io to set communication channel between client and server.
 
  npm i --save socket.io
+
+# Install the graphql to replace REST API
+
+npm i graphql
